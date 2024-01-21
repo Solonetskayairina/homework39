@@ -1,0 +1,27 @@
+    .choose  {
+        color: green;
+        font-weight: bold;
+    }
+
+    .bordered-table {
+        border: 10px solid #ddd;
+    }
+
+    .bordered-table-width {
+        border: 20px solid #ddd;
+    }
+
+    table {
+        width: 100%;
+        border-collapse: collapse;
+    }
+
+    th, td {
+        border: 1px solid #ddd;
+        padding: 8px;
+        text-align: left;
+    }
+
+    th {
+        background-color: #f2f2f2;
+    }
